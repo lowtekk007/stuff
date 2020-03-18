@@ -1,5 +1,5 @@
 # DOCKER-VERSION 0.3.4
-FROM centos:6.4
+FROM centos:6.5
 
 #Enable EPEL for Node.js
 Run rpm -Uvh http://download.fedoraproject.org/pub/epel-release-6-8.noarch.rpm
